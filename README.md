@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/nielitropar/computer-vision/refs/heads/main/assets/Anita_Budhiraja.jpg" width="130" style="border-radius: 50%;" alt="Anita Budhiraja"/>
+<img src="https://raw.githubusercontent.com/anitabudhiraja/computer-vision/refs/heads/main/assets/Anita_Budhiraja.jpeg" width="130" style="border-radius: 50%;" alt="Anita Budhiraja"/>
 
 **Anita Budhiraja**, Scientist-E  
 *Associate Dean – Academics & HoD – Training, NIELIT Deemed to be University, Main Campus Ropar*
@@ -296,7 +296,7 @@ computer-vision/
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nielitropar/computer-vision/refs/heads/main/assets/Anita_Budhiraja.jpg" width="150" alt="Anita Budhiraja"/>
+<img src="https://raw.githubusercontent.com/anitabudhiraja/computer-vision/refs/heads/main/assets/Anita_Budhiraja.jpeg" width="150" alt="Anita Budhiraja"/>
 
 **Anita Budhiraja**, Scientist-E  
 *Associate Dean – Academics & HoD – Training, NIELIT Deemed to be University, Main Campus Ropar*
