@@ -292,11 +292,11 @@ computer-vision/
 
 ---
 
-## 🤝 Acknowledgments
+## 🤝 Acknowledgments 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/anitabudhiraja/computer-vision/refs/heads/main/assets/Anita_Budhiraja.jpeg" width="150" alt="Anita Budhiraja"/>
+<img src="https://github.com/user-attachments/assets/51738d67-12e3-4583-ac2c-c0508907f88d" width="150" alt="Anita Budhiraja"/>
 
 **Anita Budhiraja**, Scientist-E  
 *Associate Dean – Academics & HoD – Training, NIELIT Deemed to be University, Main Campus Ropar*
