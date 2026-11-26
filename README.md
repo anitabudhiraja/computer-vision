@@ -11,9 +11,9 @@
 ![Notebooks](https://img.shields.io/badge/Notebooks-20%2B-orange?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Colab](https://img.shields.io/badge/Google%20Colab-Ready-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-<br/>
+<br/> 
 
-<img src="https://raw.githubusercontent.com/anitabudhiraja/computer-vision/refs/heads/main/assets/Anita_Budhiraja.jpeg" width="130" style="border-radius: 50%;" alt="Anita Budhiraja"/>
+<img src="https://github.com/user-attachments/assets/51738d67-12e3-4583-ac2c-c0508907f88d" width="130" style="border-radius: 50%;" alt="Anita Budhiraja"/>
 
 **Anita Budhiraja**, Scientist-E  
 *Associate Dean – Academics & HoD – Training, NIELIT Deemed to be University, Main Campus Ropar*
